@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aichaliveret-vercel-ready.vercel.app/sitemap.xml
