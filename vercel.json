@@ -1,4 +1,5 @@
 {
+  "framework": null,
   "rewrites": [
     { "source": "/loker-dki", "destination": "https://ruang-teduh-perpustakaan-dki.streamlit.app/" }
   ]
