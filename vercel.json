@@ -3,6 +3,4 @@
     { "source": "/loker-dki", "destination": "https://ruang-teduh-perpustakaan-dki.streamlit.app/" }
   ],
   "toolbar": {
-    "enabled": false
   }
-}
